@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeToDismissView</string>
+    <string name="txt_view2">Swipe to dismiss view</string>
+    <string name="txt_view1">Swipe to dismiss button</string>
+</resources>
